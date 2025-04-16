@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source <(curl -fsSL https://github.com/community-scripts/ProxmoxVE/raw/refs/heads/main/misc/build.func)
+source <(curl -fsSL https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/build1.func)
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
 # License: MIT
