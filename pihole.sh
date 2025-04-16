@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source <(curl -s https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/build1.func)
+source <(curl -s https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/build2.func)
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
 # License: MIT
