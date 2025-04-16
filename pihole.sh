@@ -30,25 +30,25 @@ catch_errors
 
 function default_settings() {
   CT_TYPE="1"
-  PW=""
-  CT_ID=$NEXTID
+  PW="homeveer"
+  CT_ID="204"
   HN=$NSAPP
   DISK_SIZE="$var_disk"
   CORE_COUNT="$var_cpu"
   RAM_SIZE="$var_ram"
   BRG="vmbr0"
-  NET="dhcp"
-  GATE=""
+  NET="192.168.14.203/24"
+  GATE="192.168.14.1"
   APT_CACHER=""
   APT_CACHER_IP=""
   DISABLEIP6="no"
   MTU=""
   SD=""
   NS=""
-  MAC=""
+  MAC="00:00:00:00:02:03"
   VLAN=""
-  SSH="no"
-  VERB="no"
+  SSH="yes"
+  VERB="yes"
   echo_default
 }
 
