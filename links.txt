@@ -1,7 +1,14 @@
+203
 bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/pihole.sh)
 
+206
 bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/plex.sh)"
 
+207
 bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/qbittorrent.sh)"
 
+208
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/scrypted.sh)"
+
+209
 bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/shinobi.sh)"
