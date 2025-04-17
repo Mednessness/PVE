@@ -1,0 +1,7 @@
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/pihole.sh)
+
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/plex.sh)"
+
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/qbittorrent.sh)"
+
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/shinobi.sh)"
