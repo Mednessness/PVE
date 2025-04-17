@@ -1,5 +1,22 @@
+201
+OMV
+
+
+202
+Cloudlfared + Tailscale
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/cloudflared.sh)"
+
 203
-bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/pihole.sh)
+Headscale
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/headscale.sh)"
+
+204
+Pi-Hole
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/pihole.sh)"
+
+205
+Home Assistant
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/HomeAssistantVM.sh)"
 
 206
 bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/plex.sh)"
