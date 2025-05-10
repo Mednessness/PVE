@@ -1,4 +1,4 @@
-#bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/ct/ubuntu.sh)"
+#bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/ubuntulxc.sh)"
 
 #!/usr/bin/env bash
 source <(curl -s https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/build2.func)
