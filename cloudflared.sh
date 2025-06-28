@@ -4,6 +4,7 @@ source <(curl -fsSL https://raw.githubusercontent.com/Mednessness/PVE/refs/heads
 # Author: tteck (tteckster)
 # License: MIT
 # https://github.com/tteck/Proxmox/raw/main/LICENSE
+# bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/ct/cloudflared.sh)"
 
 function header_info {
 clear
