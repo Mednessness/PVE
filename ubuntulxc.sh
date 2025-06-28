@@ -6,6 +6,8 @@ source <(curl -s https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/ma
 # Author: tteck (tteckster)
 # License: MIT
 # https://github.com/tteck/Proxmox/raw/main/LICENSE
+# bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/ct/ubuntu.sh)"
+
 
 function header_info {
 clear
