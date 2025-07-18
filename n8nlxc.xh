@@ -4,8 +4,8 @@ source <(curl -s https://raw.githubusercontent.com/tteck/Proxmox/main/misc/build
 # Author: tteck (tteckster)
 # License: MIT
 # https://github.com/tteck/Proxmox/raw/main/LICENSE
-# https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/n8n%20lxc
-# bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/n8n%20lxc.sh)"
+# https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/n8nlxc
+# bash -c "$(wget -qLO - https://raw.githubusercontent.com/Mednessness/PVE/refs/heads/main/n8nlxc.sh)"
 
 function header_info {
 clear
